@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "HTML for Beginners: 1-Minute Tutorial! 👩‍💻",
+    "description": "Want to start building websites? Learn the basics of HTML...",
+    "url": "https://www.youtube.com/watch?v=isfFOfIuiH4",
+    "thumbnail": "/2.png"
+  },
+  {
+    "id": 2,
+    "title": "ChatBot using HTML : 2-Minute Tutorial! 👩‍💻",
+    "description": "A tutorial on building a simple Chatbot uising html css and js.",
+    "url": "https://www.youtube.com/watch?v=YSIRGkTl1KA",
+    "thumbnail": "https://img.youtube.com/vi/YSIRGkTl1KA/maxresdefault.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Top 10 Must-Have VS Code Extensions for Developers in 2025",
+    "description": " Supercharge your coding workflow with these 10 must-have VS Code extensions! 💡",
+    "url": "https://www.youtube.com/watch?v=dYx6S5Xex9k",
+    "thumbnail": "/3.png"
+  }
+  
+]
